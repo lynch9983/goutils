@@ -3,7 +3,6 @@ package goutils
 import (
 	"encoding/json"
 	"errors"
-	"fmt"
 	"strconv"
 )
 
