@@ -1,2 +1,2 @@
-# utils-go
+# goutils
 Some basic function for Golang
