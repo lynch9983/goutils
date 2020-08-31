@@ -43,3 +43,12 @@ func Test_InterfaceConvert(t *testing.T) {
 		fmt.Println(err)
 	}
 }
+
+func Test_Math(t *testing.T) {
+	fmt.Println(Round(1.2345678, 0))
+	fmt.Println(Round(1.2345678, 1))
+	fmt.Println(Round(1.2345678, 2))
+	fmt.Println(Round(1.2345678, 3))
+	fmt.Println(Round(1.2345678, 4))
+	fmt.Println(Round(1.2345678, 5))
+}
